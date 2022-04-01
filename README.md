@@ -1,2 +1,2 @@
 # alx-system_engineering-devops
-it all about bash scripting
+bash scripting
