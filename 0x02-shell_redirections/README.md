@@ -1,1 +1,1 @@
-shell, I/O Redirections and filters
+# Shell redirection scripts folder
